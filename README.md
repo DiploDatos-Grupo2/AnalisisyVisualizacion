@@ -1,4 +1,4 @@
-# Análisis y Visualización de Datos - Grupo 2# 
+# Análisis y Visualización de Datos - Grupo 2 # 
 
 ## Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - 2021
 
