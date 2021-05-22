@@ -4,7 +4,7 @@
 
 Integrantes del grupo:
 
-Martin Rodriguez
-Luis Juncos
-Pablo Carrazana
-Martin Peñas
+- Martin Rodriguez
+- Luis Juncos
+- Pablo Carrazana
+- Martin Peñas
